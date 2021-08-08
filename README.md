@@ -1,0 +1,1 @@
+This is my version of the etch a sketch exercise from "the odin project"
