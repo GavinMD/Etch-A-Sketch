@@ -1,0 +1,12 @@
+
+
+.grid-container {
+    display: inline-block;
+    outline: 1px solid;
+    font-size: 0;
+}
+
+.sketch {
+    background-color: white;
+    float: left;
+}
